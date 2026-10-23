@@ -10,13 +10,11 @@ Describes actions motivated by the welfare of people who have yet to be born.
 From *posterity* (Latin *posteritas*, "future generations," from *posterus*, "coming after") + *-ous*
 ("characterized by").
 
-## Pronunciation (pending creator decision)
-Candidates:
-- **pos-TAIR-ih-tus** /pɒˈstɛrɪtəs/: stress follows *posterity* (pos-TAIR-ih-tee). Recommended, because the
-  link to *posterity* is the word's main way of being guessed correctly.
-- POS-ter-ih-tus: closer to *posterior*, which invites jokes.
+## Pronunciation
+**pos-TAIR-ih-tus** /pɒˈstɛrɪtəs/. The stress follows *posterity* (pos-TAIR-ih-tee).
+*(Confirmed by the operator, 2026-10-23.)*
 
-## Related forms (pending creator endorsement)
+## Related forms (endorsed by the operator, 2026-10-23)
 - *posteritously* (adv.): "They built posteritously, in stone meant to last a thousand years."
 - *posteritousness* (n.): "The posteritousness of the gift was the point."
 

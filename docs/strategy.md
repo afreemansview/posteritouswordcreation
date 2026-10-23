@@ -32,7 +32,7 @@ people not yet born. It is also easy to guess from *posterity*, which lowers the
 - **Confusion with "Posterous"**, the defunct blogging platform. It dominates search results today.
 - **Sounds like "preposterous."** That could hurt (it sounds like a joke) or help (it's memorable and
   open to wordplay). The kit should take it on directly.
-- **No settled pronunciation yet.** That needs a decision from the creator (see `kit/word-kit.md`).
+- ~~No settled pronunciation.~~ Settled: pos-TAIR-ih-tus (see `kit/word-kit.md`).
 
 ## Target communities, ranked by fit
 
@@ -54,7 +54,7 @@ people not yet born. It is also easy to guess from *posterity*, which lowers the
 - [x] Repository, charter, measurement plan, tracking ledgers
 - [x] Baseline search (zero usage, see `log/2026-10-23.md`)
 - [ ] Confirm the canonical page at afreemansview.xyz resolves publicly. **It did not resolve on 2026-10-23.**
-- [ ] Creator decisions: pronunciation, related forms, whether "posteritously" and "posteritousness" are endorsed
+- [x] Creator decisions: pronunciation (pos-TAIR-ih-tus), related forms *posteritously* and *posteritousness* endorsed
 - [ ] Set up monitoring (search alerts, social search, see `measurement.md`)
 
 ### Phase 1: Home base (SaturaVeritas.com)
