@@ -1,0 +1,3 @@
+id,date,channel,action,target,audience_size,approved_by,link,notes
+A0001,2026-10-23,github,Created project lab notebook (this repo),public record,,operator,https://github.com/afreemansview/posteritouswordcreation,Phase 0 foundation
+A0002,2026-10-23,web-search,Baseline search for "posteritous",n/a,,n/a,,Zero results; all hits were for the defunct service Posterous
